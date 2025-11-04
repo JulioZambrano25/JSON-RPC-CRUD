@@ -1,0 +1,16 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jayson": "^4.2.0",
+    "json-rpc-2.0": "^1.7.1"
+  }
+}
